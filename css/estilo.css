@@ -1,0 +1,103 @@
+html,body{
+	background: gray;
+	margin:0px;
+	min-height:100%;
+}
+#gral{
+	width: 100%;
+	min-height:100%;
+}
+#contenedor{
+	background-color: #fff;
+	width: 40%;
+	padding-top: 100px;
+	margin: 0 auto;
+	border-radius: 25px;
+	color: gray;
+}
+#contenedor h1{
+	color: white;
+	background-color: #4682b4;
+}
+#contenedor label{
+	color: gray;
+}
+
+#contenedor2{
+	width: 80%;
+	margin: 0 auto;
+	color: white;
+}
+#cont{
+	background-color: #fff;
+	min-height: 100%;
+}
+#cont1{
+	min-height: 90%;
+}
+#cont2{
+	min-height: 10%;
+}
+#men{
+	background-color: #000;
+	min-height: 100%;
+}
+#men h2{
+	margin-top: 20px;
+	text-align: center;
+	color: #4682b4;
+}
+.logo{
+	padding: 50pX;
+}
+
+#formularios {
+	width: 80%;
+	min-height: 850px;
+	margin: 0 auto;
+}
+#pie{
+	background-color: black;
+	padding: 10px;
+	color: white;
+}
+#datos{
+	text-align: right;
+	background-color: black;
+	padding: 10px;
+	color: white;
+}
+ul{
+	list-style:none;
+	margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+ul li{
+}
+ul li a{
+	background-color: black;
+    font-weight:bold;
+    display: block;
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+}
+ul li a:hover{
+	text-decoration:none;
+	color: white;
+	background-color: #4682b4;
+	padding: 8px;
+}
+#consulta{
+	margin: 0 auto;
+}
+.correcto{
+	color: green;
+}
+.incorrecto{
+	color: red;
+}
+.table img{
+	width: 64px;
+}
